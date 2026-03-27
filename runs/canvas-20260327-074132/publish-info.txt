@@ -1,0 +1,6 @@
+test_id=canvas-20260327-074132
+published_at=2026-03-27T07:47:51+00:00
+base_url=http://canvas.io.vn
+prom_url=http://127.0.0.1:30090/api/v1/write
+source_run_dir=/home/ubuntu/canvas-k8s/testing/results/canvas-20260327-074132
+source_charts_dir=/home/ubuntu/canvas-k8s/testing/charts/output
