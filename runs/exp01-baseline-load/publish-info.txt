@@ -1,0 +1,6 @@
+test_id=exp01-baseline-load
+published_at=2026-04-01T16:04:32+00:00
+base_url=http://canvas.io.vn
+prom_url=http://127.0.0.1:30090/api/v1/write
+source_run_dir=/home/ubuntu/canvas-k8s/testing/results/exp01-baseline-load
+source_charts_dir=/home/ubuntu/canvas-k8s/testing/charts/output
