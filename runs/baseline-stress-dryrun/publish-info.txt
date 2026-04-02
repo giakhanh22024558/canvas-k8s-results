@@ -1,5 +1,5 @@
 test_id=baseline-stress-dryrun
-published_at=2026-04-02T17:53:40+00:00
+published_at=2026-04-02T18:23:36+00:00
 base_url=http://canvas.io.vn
 prom_url=http://127.0.0.1:30090/api/v1/write
 source_run_dir=/home/ubuntu/canvas-k8s/testing/results/baseline-stress-dryrun
